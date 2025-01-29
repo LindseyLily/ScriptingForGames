@@ -1,7 +1,4 @@
-using UnityEngine;
-
-public class Ignore
-{# This .gitignore file should be placed at the root of your Unity project directory
+# This .gitignore file should be placed at the root of your Unity project directory
     #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
     #
@@ -75,4 +72,4 @@ public class Ignore
     /[Aa]ssets/[Ss]treamingAssets/aa.meta
     /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-    }
+
